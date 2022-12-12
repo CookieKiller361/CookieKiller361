@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CookieKiller361
 - 👀 I’m interested in Coding, Gaming and Linux 
 - 🌱 I’m currently learning C++ and making Games with Unreal Engine 4
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Some Code Challenges 
 - 📫 How to reach me, over Discord 
 
 <!---
